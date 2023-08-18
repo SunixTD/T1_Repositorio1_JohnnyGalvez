@@ -1,0 +1,34 @@
+° Requerimientos Funcionales:
+
+Selección de Destino:
+* El sistema debe permitir a los usuarios seleccionar su destino de una lista de destinos disponibles.
+
+Introducción de Información:
+*El sistema permite a los usuarios ingresar los detalles de su tarjeta de crédito y su número de identificación personal (PIN).
+
+Validación de Destino:
+*El sistema verifica que el destino seleccionado por el usuario sea válido y esté en la lista de destinos disponibles.
+
+Validación de Transacción:
+*El sistema debe valida la transacción de crédito, asegurándose de que la tarjeta de crédito sea válida y tenga fondos suficientes para cubrir el costo del boleto.
+
+Expedición de Boleto:
+*Una vez que la selección del destino y la validación de la transacción sean exitosas, el sistema emite el boleto de tren.
+
+
+° Requerimientos No Funcionales:
+
+Seguridad:
+*El sistema debe garantizar la seguridad de los datos de los usuarios, incluyendo los detalles de la tarjeta de crédito y el PIN.
+
+Rendimiento:
+*El sistema responde de manera rápida a las acciones del usuario, como la selección de destino y la validación de la transacción.
+
+Usabilidad:
+*La interfaz del es intuitiva y fácil de usar, de modo que los usuarios pueden completar el proceso sin dificultades.
+
+Cumplimiento Normativo:
+*El sistema debe cumplir con las regulaciones y normativas aplicables relacionadas con la privacidad de los datos y los pagos electrónicos.
+
+Mantenibilidad:
+*El sistema debe ser diseñado de manera que sea fácil de mantener y actualizar en el futuro para incorporar mejoras y correcciones.
