@@ -1,0 +1,30 @@
+° Requerimientos Funcionales:
+
+Inicio de Sesión:
+*Los usuarios pueden ingresar un usuario y una contraseña válidos para acceder a sus cuentas.
+
+Visualización de Productos:
+*Los usuarios autenticados pueden ver la lista de productos disponibles para comprar.
+
+Compra de Productos:
+*Los usuarios autenticados pueden seleccionar y comprar productos de la lista disponible.
+*El sistema verifica si el usuario tiene suficiente saldo para realizar la compra.
+*El sistema actualiza el saldo del usuario después de realizar una compra exitosa.
+
+° Requerimientos No Funcionales:
+
+
+Usabilidad:
+*La interfaz de usuario es y fácil de usar, incluso para usuarios no técnicos.
+
+Precisión:
+*El saldo del usuario y los precios de los productos se calculan y muestran de manera precisa.
+
+Cumplimiento Normativo:
+*El sistema debe cumplir con las regulaciones de privacidad y seguridad de datos aplicables.
+
+Documentación:
+*Debe existir documentación clara y actualizada para los usuarios y administradores sobre cómo usar y administrar el sistema.
+
+Pruebas:
+*El sistema debe someterse a pruebas exhaustivas para garantizar su funcionalidad, seguridad y rendimiento.
